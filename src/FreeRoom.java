@@ -1,0 +1,3 @@
+class FreeRoom extends Room{
+
+}
